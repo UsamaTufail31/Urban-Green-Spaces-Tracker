@@ -86,19 +86,7 @@
 3. **Use Token:** Include `Authorization: Bearer <token>` header in requests
 4. **Access Admin Routes:** Token must belong to user with 'admin' role
 
-#### Environment Variables
-```bash
-# JWT Configuration
-JWT_SECRET_KEY=your-secret-key-here-change-in-production
-JWT_ALGORITHM=HS256
-ACCESS_TOKEN_EXPIRE_MINUTES=1440
 
-# Default Admin User (for initial setup)
-DEFAULT_ADMIN_USERNAME=admin
-DEFAULT_ADMIN_EMAIL=admin@urbanproject.com
-DEFAULT_ADMIN_PASSWORD=AdminPass123!
-DEFAULT_ADMIN_FULL_NAME=System Administrator
-```
 
 ### 🔒 Security Features
 
