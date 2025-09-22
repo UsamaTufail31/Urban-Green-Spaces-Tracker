@@ -1,4 +1,4 @@
-# Urba### Frontend Application
+# Urban Green Tracker Application
 - 🗺️ **Interactive Maps**: Powered by Leaflet and React-Leaflet for exploring green spaces
 - 📊 **Data Visualization**: Real-time charts and statistics using Recharts
 - 🔍 **Smart City Search**: Intelligent search with autocomplete and real-time data integration
