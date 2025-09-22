@@ -78,12 +78,7 @@
 
 ### 🚀 Usage
 
-#### Default Admin Credentials
-```
-Username: admin
-Email: admin@urbanproject.com
-Password: AdminPass123!
-```
+
 
 #### Authentication Flow
 1. **Login:** POST `/auth/login` with username/email and password
