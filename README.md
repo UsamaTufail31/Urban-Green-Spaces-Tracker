@@ -57,7 +57,7 @@ A comprehensive full-stack web application for discovering, analyzing, and manag
 - **JWT** - JSON Web Token authentication
 - **Uvicorn** - ASGI server for production
 ## Web Pages
-[📄 Open Report (PDF)](Green Track project.pdf.pdf)
+[📄 Open Report (PDF)](Green Track project.pdf)
 
 ## 🚀 Getting Started
 
