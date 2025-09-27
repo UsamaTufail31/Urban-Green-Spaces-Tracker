@@ -1,42 +1,42 @@
 # Urban Green Tracker Application
-- 🗺️ **Interactive Maps**: Powered by Leaflet and React-Leaflet for exploring green spaces
-- 📊 **Data Visualization**: Real-time charts and statistics using Recharts
-- 🔍 **Smart City Search**: Intelligent search with autocomplete and real-time data integration
-- 🌤️ **Live Weather Data**: Current weather conditions, temperature, and forecasts
-- 📰 **Recent News**: Latest city-related news and updates
-- 🏴 **Country Information**: Real-time country data including population and demographics
-- 📍 **Location Services**: Find nearest parks and green spaces within customizable radius
-- � **Green Coverage Analysis**: Compare cities against WHO recommendations (30% green coverage)
-- � **Historical Trends**: Visualize green coverage changes over time
-- 🌓 **Dark/Light Theme**: Responsive design with theme switching
-- 📱 **Mobile Responsive**: Optimized for all device sizespaces Tracker
+-  **Interactive Maps**: Powered by Leaflet and React-Leaflet for exploring green spaces
+-  **Data Visualization**: Real-time charts and statistics using Recharts
+-  **Smart City Search**: Intelligent search with autocomplete and real-time data integration
+-  **Live Weather Data**: Current weather conditions, temperature, and forecasts
+-  **Recent News**: Latest city-related news and updates
+-  **Country Information**: Real-time country data including population and demographics
+-  **Location Services**: Find nearest parks and green spaces within customizable radius
+-  **Green Coverage Analysis**: Compare cities against WHO recommendations (30% green coverage)
+-  **Historical Trends**: Visualize green coverage changes over time
+-  **Dark/Light Theme**: Responsive design with theme switching
+-  **Mobile Responsive**: Optimized for all device sizespaces Tracker
 
 A comprehensive full-stack web application for discovering, analyzing, and managing urban green spaces, parks, and environmental data. This platform combines satellite imagery processing, real-time data visualization, and interactive mapping to promote sustainable urban development.
 
-## 🌟 Key Features
+##  Key Features
 
 ### Frontend Application
-- 🗺️ **Interactive Maps**: Powered by Leaflet and React-Leaflet for exploring green spaces
-- 📊 **Data Visualization**: Real-time charts and statistics using Recharts
-- 🔍 **Smart City Search**: Intelligent search with autocomplete and suggestions
-- 📍 **Location Services**: Find nearest parks and green spaces within customizable radius
-- � **Green Coverage Analysis**: Compare cities against WHO recommendations (30% green coverage)
-- � **Historical Trends**: Visualize green coverage changes over time
-- 🌓 **Dark/Light Theme**: Responsive design with theme switching
-- 📱 **Mobile Responsive**: Optimized for all device sizes
+-  **Interactive Maps**: Powered by Leaflet and React-Leaflet for exploring green spaces
+-  **Data Visualization**: Real-time charts and statistics using Recharts
+-  **Smart City Search**: Intelligent search with autocomplete and suggestions
+-  **Location Services**: Find nearest parks and green spaces within customizable radius
+-  **Green Coverage Analysis**: Compare cities against WHO recommendations (30% green coverage)
+-  **Historical Trends**: Visualize green coverage changes over time
+-  **Dark/Light Theme**: Responsive design with theme switching
+-  **Mobile Responsive**: Optimized for all device sizes
 
 ### Backend API
-- 🛰️ **Satellite Imagery Processing**: Automated green coverage analysis using NDVI
-- 🌍 **External API Integration**: Real-time data from weather, news, and country APIs
-- ⏰ **Background Tasks**: Weekly automated updates with APScheduler
-- 🔐 **JWT Authentication**: Secure admin panel with role-based access
-- 💾 **Intelligent Caching**: Multi-layer caching for database and external API data
-- 🗃️ **PostgreSQL Integration**: Robust data management with SQLAlchemy ORM
-- 📋 **Comprehensive API**: RESTful endpoints for all data operations
-- 🌐 **CORS Support**: Seamless frontend-backend integration
-- 📝 **Feedback System**: User feedback collection and management
+-  **Satellite Imagery Processing**: Automated green coverage analysis using NDVI
+-  **External API Integration**: Real-time data from weather, news, and country APIs
+-  **Background Tasks**: Weekly automated updates with APScheduler
+-  **JWT Authentication**: Secure admin panel with role-based access
+-  **Intelligent Caching**: Multi-layer caching for database and external API data
+-  **PostgreSQL Integration**: Robust data management with SQLAlchemy ORM
+-  **Comprehensive API**: RESTful endpoints for all data operations
+-  **CORS Support**: Seamless frontend-backend integration
+-  **Feedback System**: User feedback collection and management
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **React 19** - Modern UI framework with hooks and context
@@ -203,7 +203,7 @@ urban-project/
 └── README.md                           # Project documentation
 ```
 
-## 🔌 API Documentation
+##  API Documentation
 
 ### Core Endpoints
 
@@ -243,7 +243,7 @@ urban-project/
 ### Interactive API Documentation
 Visit `http://localhost:8000/docs` for the complete Swagger UI documentation with interactive testing capabilities.
 
-## 📊 Features in Detail
+##  Features in Detail
 
 ### Satellite Imagery Processing
 - **NDVI Analysis**: Normalized Difference Vegetation Index calculations
@@ -269,7 +269,7 @@ Visit `http://localhost:8000/docs` for the complete Swagger UI documentation wit
 - **Error Handling**: Robust error recovery and logging
 - **Manual Triggers**: Admin-controlled update processes
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -336,7 +336,7 @@ npm test
 npm run test:integration
 ```
 
-## 🚀 Deployment
+##  Deployment
 
 ### Production Deployment
 
@@ -391,7 +391,7 @@ volumes:
   postgres_data:
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions to the Urban Green Spaces Tracker! Here's how you can help:
 
@@ -440,14 +440,14 @@ We welcome contributions to the Urban Green Spaces Tracker! Here's how you can h
 
 ### Areas for Contribution
 
-- 🐛 **Bug fixes** - Help us squash bugs
-- 🚀 **New features** - Add exciting new functionality
-- 📚 **Documentation** - Improve or translate documentation
-- 🧪 **Testing** - Increase test coverage
-- 🎨 **UI/UX** - Enhance user experience
-- 🌍 **Internationalization** - Add multi-language support
+-  **Bug fixes** - Help us squash bugs
+-  **New features** - Add exciting new functionality
+-  **Documentation** - Improve or translate documentation
+-  **Testing** - Increase test coverage
+-  **UI/UX** - Enhance user experience
+-  **Internationalization** - Add multi-language support
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -475,7 +475,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 🏆 Acknowledgments
+##  Acknowledgments
 
 - **Icons**: Beautiful icons provided by [Lucide React](https://lucide.dev/)
 - **Maps**: Interactive mapping powered by [Leaflet](https://leafletjs.com/)
@@ -485,14 +485,14 @@ SOFTWARE.
 - **Community**: Built following React, FastAPI, and accessibility best practices
 - **WHO Standards**: Green coverage recommendations based on World Health Organization guidelines
 
-## 📞 Support
+## Support
 
 ### Getting Help
 
-- 📖 **Documentation**: Check this README and inline code comments
-- 🐛 **Issues**: Report bugs or request features via [GitHub Issues](../../issues)
-- 💬 **Discussions**: Join community discussions in [GitHub Discussions](../../discussions)
-- 📧 **Contact**: Reach out to the maintainers for specific questions
+- **Documentation**: Check this README and inline code comments
+- **Issues**: Report bugs or request features via [GitHub Issues](../../issues)
+- **Discussions**: Join community discussions in [GitHub Discussions](../../discussions)
+- **Contact**: Reach out to the maintainers for specific questions
 
 ### Reporting Issues
 
